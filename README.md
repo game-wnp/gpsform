@@ -14,7 +14,7 @@ This is a simple web app that uses Google Forms and Leaflet to allow data collec
 
 The prefilled form will look something like this:
 ```
-https://docs.google.com/forms/d/formId/viewform?entry.field1=39.01&entry.field2=-81.26&entry.field3=description
+https://docs.google.com/forms/d/e/1FAIpQLSf3_60_ALXNd6flXmhlfgRmyn8rTdLQ1BdFKUtYiGh_eI8pVQ/viewform
 ```
 These are the variables you need to change in index.html:
 ```javascript
